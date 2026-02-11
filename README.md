@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart-Resume-Automation-System
 # 📘 Resume RAG Automation System
 
@@ -171,3 +172,6 @@ analytics - Interactive recruiter dashboards
 
 Designed and developed as a production-grade Resume RAG Automation
 Platform for intelligent hiring workflows.
+=======
+# Smart-Resume-Automation-System
+>>>>>>> 852a80196233aae7c146ae84f7e1f8dd3bb9bc14
